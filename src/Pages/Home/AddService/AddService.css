@@ -1,0 +1,12 @@
+.form-style form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* display: block; */
+}
+
+.form-style input,textarea{
+    width: 40%;
+    margin-bottom: 10px;
+}
